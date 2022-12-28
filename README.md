@@ -10,7 +10,7 @@ Create a function that receives a list of strings that are arithmetic problems a
 Example
 Function Call:
 
-arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"])
+arithmetic_arranger(["32 + 698","3801 - 2", "45 + 43", "123 + 49"])
 Output:
 
    32      3801      45      123
